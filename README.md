@@ -5,6 +5,8 @@ Written in Kotlin using Android Studio
 
 Uses a recycler view and Marvel API to provide information about Marvel Comics.
 
+![Preview](https://github.com/lmreisdorf/Marvel_Comics_Information_Finder/blob/master/Marvel.gif "Preview")
+
 Copyright 2022 Lynette Reisdorf
 
     Licensed under the Apache License, Version 2.0 (the "License");
