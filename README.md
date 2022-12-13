@@ -1,6 +1,7 @@
 # Marvel Comics Information Finder
 
 Created by Lynette Reisdorf 2022
+
 Written in Kotlin using Android Studio
 
 Uses a recycler view and Marvel API to provide information about Marvel Comics.
